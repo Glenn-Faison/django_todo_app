@@ -1,2 +1,2 @@
 # django_todo_app
-A simple ToDo application running the Django REST framework.
+A simple ToDo application built using the Django REST framework.
